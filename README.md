@@ -1,5 +1,5 @@
 # hubcreator
-A simply python script to create a basic github repo on the command line.
+A simple python script to create a basic github repo on the command line.
 
 # IMPORTANT
 Your github API key is required in your environment variables.
