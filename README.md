@@ -14,15 +14,25 @@ arguments:
   -h, --help            show this help message and exit
 
   -r REPONAME, --reponame REPONAME
+  
                         Repo name
+  
   -u USERNAME, --username USERNAME
+  
                         User name
+  
   -d DESCRIPTION, --description DESCRIPTION
+  
                         Description
+  
   -i INIT, --init INIT  
+  
                         Init: true/false, default: false
+  
   -l LICENSEVER, --licenseVer LICENSEVER
+  
                         License: ex. gpl-2.0, default: unlicense
+  
 
 github repo api reference:
 
