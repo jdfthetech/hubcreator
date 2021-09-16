@@ -5,7 +5,7 @@ A simple python script to create a basic github repo on the command line.
 Your github API key is required in your environment variables.
 To set the API key in environment variables add the following line to ~/.bashrc (or .zshrc etc):
 
-export GITKEY="<key value>"
+export GITKEY="keyValue"
 
 For Windows, just listen to Microsoft or something:
 
