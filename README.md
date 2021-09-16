@@ -7,6 +7,10 @@ To set the API key in environment variables add the following line to ~/.bashrc 
 
 export GITKEY="<key value>"
 
+For Windows, just listen to Microsoft or something:
+
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_environment_variables?view=powershell-7.1#using-and-changing-environment-variables
+
 
 usage: main.py [-h] -r REPONAME -u USERNAME [-d DESCRIPTION] [-i INIT] [-l LICENSEVER]
 
